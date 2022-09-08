@@ -1,6 +1,6 @@
 # Introduction of Astronomy Lecture
 📖 2022-2 Introduction of Astronomy Lecture  
 🎓 Astronomy & Space Science  
-🏫 Kyung-Hee University  
+🏫 Kyung Hee University  
   
 Python code used in the lecture. 
