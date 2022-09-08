@@ -1,2 +1,4 @@
-# Lec_Astro_Intro
-2022-2 Introduction of Astronomy Lecture 
+# Introduction of Astronomy Lecture
+📖 2022-2 Introduction of Astronomy Lecture  
+🎓 Astronomy & Space Science  
+🏫 Kyung-Hee University  
